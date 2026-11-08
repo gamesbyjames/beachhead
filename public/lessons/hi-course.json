@@ -1,0 +1,1678 @@
+{
+  "version": 2,
+  "language": "hi",
+  "source": "https://github.com/gamesbyjames/lingo_run",
+  "commit": "6e4163e02eb96bf98d8c0b80002e8bb1ab70e127",
+  "topics": [
+    {
+      "id": "basics",
+      "name": "Basics",
+      "phraseCount": 5
+    },
+    {
+      "id": "story",
+      "name": "My Story",
+      "phraseCount": 6
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "phraseCount": 5
+    },
+    {
+      "id": "colors",
+      "name": "Colours",
+      "phraseCount": 5
+    },
+    {
+      "id": "verbs",
+      "name": "Verbs",
+      "phraseCount": 5
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "phraseCount": 8
+    },
+    {
+      "id": "travel",
+      "name": "Directions",
+      "phraseCount": 5
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "phraseCount": 5
+    }
+  ],
+  "phrases": [
+    {
+      "id": "basics/0/n",
+      "topic": "basics",
+      "topicName": "Basics",
+      "english": "Hello, how are you?",
+      "tip": "\"aap\" is the polite, respectful \"you\" — always a safe choice with strangers.",
+      "audio": "audio/hi/p_basics_0_n.mp3",
+      "words": [
+        {
+          "roman": "Namaste",
+          "gloss": "hello",
+          "native": "नमस्ते",
+          "audio": "audio/hi/w_ff5a57bd03.mp3"
+        },
+        {
+          "roman": "aap",
+          "gloss": "you (polite)",
+          "native": "आप",
+          "audio": "audio/hi/w_59b3174259.mp3"
+        },
+        {
+          "roman": "kaise",
+          "gloss": "how",
+          "native": "कैसे",
+          "audio": "audio/hi/w_a143079b62.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "are",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    },
+    {
+      "id": "basics/1/n",
+      "topic": "basics",
+      "topicName": "Basics",
+      "english": "I am fine, thank you.",
+      "tip": "\"shukriya\" = thanks. A more formal word is \"dhanyavaad\".",
+      "audio": "audio/hi/p_basics_1_n.mp3",
+      "words": [
+        {
+          "roman": "Main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "theek",
+          "gloss": "fine",
+          "native": "ठीक",
+          "audio": "audio/hi/w_65769b1047.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        },
+        {
+          "roman": "shukriya",
+          "gloss": "thank you",
+          "native": "शुक्रिया",
+          "audio": "audio/hi/w_4b4babbe93.mp3"
+        }
+      ]
+    },
+    {
+      "id": "basics/2/n",
+      "topic": "basics",
+      "topicName": "Basics",
+      "english": "What is your name?",
+      "tip": "Hindi says \"your name what is?\" — the question word sits just before the verb.",
+      "audio": "audio/hi/p_basics_2_n.mp3",
+      "words": [
+        {
+          "roman": "Aapka",
+          "gloss": "your",
+          "native": "आपका",
+          "audio": "audio/hi/w_0105f6bfd4.mp3"
+        },
+        {
+          "roman": "naam",
+          "gloss": "name",
+          "native": "नाम",
+          "audio": "audio/hi/w_4427e93a2a.mp3"
+        },
+        {
+          "roman": "kya",
+          "gloss": "what",
+          "native": "क्या",
+          "audio": "audio/hi/w_a6bd3f6fa6.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "basics/3/n",
+      "topic": "basics",
+      "topicName": "Basics",
+      "english": "Nice to meet you.",
+      "tip": "Literally: \"Having met you, happiness happened.\"",
+      "audio": "audio/hi/p_basics_3_n.mp3",
+      "words": [
+        {
+          "roman": "Aapse",
+          "gloss": "with you",
+          "native": "आपसे",
+          "audio": "audio/hi/w_8c54cc0fcf.mp3"
+        },
+        {
+          "roman": "milkar",
+          "gloss": "having met",
+          "native": "मिलकर",
+          "audio": "audio/hi/w_ab47f61525.mp3"
+        },
+        {
+          "roman": "khushi",
+          "gloss": "happiness",
+          "native": "ख़ुशी",
+          "audio": "audio/hi/w_64bda5ad97.mp3"
+        },
+        {
+          "roman": "hui",
+          "gloss": "happened",
+          "native": "हुई",
+          "audio": "audio/hi/w_809574e6f2.mp3"
+        }
+      ]
+    },
+    {
+      "id": "basics/4/n",
+      "topic": "basics",
+      "topicName": "Basics",
+      "english": "See you again!",
+      "tip": "\"Phir milenge\" is the friendly way to say goodbye.",
+      "audio": "audio/hi/p_basics_4_n.mp3",
+      "words": [
+        {
+          "roman": "Phir",
+          "gloss": "again",
+          "native": "फिर",
+          "audio": "audio/hi/w_a13bed64e8.mp3"
+        },
+        {
+          "roman": "milenge",
+          "gloss": "(we) will meet",
+          "native": "मिलेंगे",
+          "audio": "audio/hi/w_a3f63bf132.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/0/n",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "Yesterday I decided to learn Hindi.",
+      "tip": "Hindi puts the verb last — literally: \"Yesterday I Hindi to-learn of decision made.\"",
+      "audio": "audio/hi/p_story_0_n.mp3",
+      "words": [
+        {
+          "roman": "Kal",
+          "gloss": "yesterday",
+          "native": "कल",
+          "audio": "audio/hi/w_63929ab6f2.mp3"
+        },
+        {
+          "roman": "maine",
+          "gloss": "I (did)",
+          "native": "मैंने",
+          "audio": "audio/hi/w_11b2acb504.mp3"
+        },
+        {
+          "roman": "Hindi",
+          "gloss": "Hindi",
+          "native": "हिंदी",
+          "audio": "audio/hi/w_21e86085e1.mp3"
+        },
+        {
+          "roman": "seekhne",
+          "gloss": "to learn",
+          "native": "सीखने",
+          "audio": "audio/hi/w_d379a4013d.mp3"
+        },
+        {
+          "roman": "ka",
+          "gloss": "of",
+          "native": "का",
+          "audio": "audio/hi/w_438b9b50f9.mp3"
+        },
+        {
+          "roman": "faisla",
+          "gloss": "decision",
+          "native": "फ़ैसला",
+          "audio": "audio/hi/w_fc83809935.mp3"
+        },
+        {
+          "roman": "kiya",
+          "gloss": "made",
+          "native": "किया",
+          "audio": "audio/hi/w_657601e7ef.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/1/m",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "And today I can already speak a little.",
+      "tip": "\"sakta / sakti\" (can) changes with the speaker's gender. \"abhi se\" = literally \"from now\" → already.",
+      "audio": "audio/hi/p_story_1_m.mp3",
+      "words": [
+        {
+          "roman": "Aur",
+          "gloss": "and",
+          "native": "और",
+          "audio": "audio/hi/w_76df35e8e7.mp3"
+        },
+        {
+          "roman": "aaj",
+          "gloss": "today",
+          "native": "आज",
+          "audio": "audio/hi/w_eb3cd11dff.mp3"
+        },
+        {
+          "roman": "main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "abhi se",
+          "gloss": "already",
+          "native": "अभी से",
+          "audio": "audio/hi/w_15c9c96924.mp3"
+        },
+        {
+          "roman": "thoda",
+          "gloss": "a little",
+          "native": "थोड़ा",
+          "audio": "audio/hi/w_40efbd1c0f.mp3"
+        },
+        {
+          "roman": "bol",
+          "gloss": "speak",
+          "native": "बोल",
+          "audio": "audio/hi/w_a59b0ef3fb.mp3"
+        },
+        {
+          "roman": "sakta",
+          "gloss": "can",
+          "native": "सकता",
+          "audio": "audio/hi/w_aeba44aaf1.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/2/m",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "I practise a little every day.",
+      "tip": "\"karta hoon / karti hoon\" = \"I do\" for habits and routines.",
+      "audio": "audio/hi/p_story_2_m.mp3",
+      "words": [
+        {
+          "roman": "Main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "har",
+          "gloss": "every",
+          "native": "हर",
+          "audio": "audio/hi/w_2e0aa9a138.mp3"
+        },
+        {
+          "roman": "din",
+          "gloss": "day",
+          "native": "दिन",
+          "audio": "audio/hi/w_67865e9935.mp3"
+        },
+        {
+          "roman": "thoda",
+          "gloss": "a little",
+          "native": "थोड़ा",
+          "audio": "audio/hi/w_40efbd1c0f.mp3"
+        },
+        {
+          "roman": "abhyaas",
+          "gloss": "practice",
+          "native": "अभ्यास",
+          "audio": "audio/hi/w_ae832a86fb.mp3"
+        },
+        {
+          "roman": "karta",
+          "gloss": "do",
+          "native": "करता",
+          "audio": "audio/hi/w_226b4b11e6.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/3/m",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "Little by little, I am getting better.",
+      "tip": "Repeating a word softens it: \"dheere\" = slowly, \"dheere dheere\" = little by little.",
+      "audio": "audio/hi/p_story_3_m.mp3",
+      "words": [
+        {
+          "roman": "Dheere dheere",
+          "gloss": "little by little",
+          "native": "धीरे-धीरे",
+          "audio": "audio/hi/w_c2bc8e5821.mp3"
+        },
+        {
+          "roman": "main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "behtar",
+          "gloss": "better",
+          "native": "बेहतर",
+          "audio": "audio/hi/w_8fa8c7e56e.mp3"
+        },
+        {
+          "roman": "ho",
+          "gloss": "becoming",
+          "native": "हो",
+          "audio": "audio/hi/w_471ce7937f.mp3"
+        },
+        {
+          "roman": "raha",
+          "gloss": "(-ing)",
+          "native": "रहा",
+          "audio": "audio/hi/w_6bf141c255.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/4/m",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "I want to learn Hindi.",
+      "tip": "\"chaahna\" = to want. Like sakta/sakti, it becomes chaahta (he) or chaahti (she).",
+      "audio": "audio/hi/p_story_4_m.mp3",
+      "words": [
+        {
+          "roman": "Main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "Hindi",
+          "gloss": "Hindi",
+          "native": "हिंदी",
+          "audio": "audio/hi/w_21e86085e1.mp3"
+        },
+        {
+          "roman": "seekhna",
+          "gloss": "to learn",
+          "native": "सीखना",
+          "audio": "audio/hi/w_ff13805224.mp3"
+        },
+        {
+          "roman": "chaahta",
+          "gloss": "want",
+          "native": "चाहता",
+          "audio": "audio/hi/w_dbe465bf11.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        }
+      ]
+    },
+    {
+      "id": "story/5/n",
+      "topic": "story",
+      "topicName": "My Story",
+      "english": "I have to learn Hindi.",
+      "tip": "\"Mujhe … hai\" = I have to … Hindi is feminine, so seekhna → seekhni (you'll also hear \"seekhna hai\").",
+      "audio": "audio/hi/p_story_5_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "Hindi",
+          "gloss": "Hindi",
+          "native": "हिंदी",
+          "audio": "audio/hi/w_21e86085e1.mp3"
+        },
+        {
+          "roman": "seekhni",
+          "gloss": "to learn",
+          "native": "सीखनी",
+          "audio": "audio/hi/w_d3fa5738f1.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "numbers/0/n",
+      "topic": "numbers",
+      "topicName": "Numbers",
+      "english": "One, two, three, four, five.",
+      "tip": "\"do\" (two) rhymes with \"though\" — not like English \"do\".",
+      "audio": "audio/hi/p_numbers_0_n.mp3",
+      "words": [
+        {
+          "roman": "Ek",
+          "gloss": "one",
+          "native": "एक",
+          "audio": "audio/hi/w_be60c8bf27.mp3"
+        },
+        {
+          "roman": "do",
+          "gloss": "two",
+          "native": "दो",
+          "audio": "audio/hi/w_adf872fd1e.mp3"
+        },
+        {
+          "roman": "teen",
+          "gloss": "three",
+          "native": "तीन",
+          "audio": "audio/hi/w_317b4f1c49.mp3"
+        },
+        {
+          "roman": "chaar",
+          "gloss": "four",
+          "native": "चार",
+          "audio": "audio/hi/w_664bafa33f.mp3"
+        },
+        {
+          "roman": "paanch",
+          "gloss": "five",
+          "native": "पाँच",
+          "audio": "audio/hi/w_b851d8736c.mp3"
+        }
+      ]
+    },
+    {
+      "id": "numbers/1/n",
+      "topic": "numbers",
+      "topicName": "Numbers",
+      "english": "Six, seven, eight, nine, ten.",
+      "tip": "\"saat\" (7) and \"aath\" (8) sound close — listen for the first letter.",
+      "audio": "audio/hi/p_numbers_1_n.mp3",
+      "words": [
+        {
+          "roman": "Chhah",
+          "gloss": "six",
+          "native": "छह",
+          "audio": "audio/hi/w_8e25b07090.mp3"
+        },
+        {
+          "roman": "saat",
+          "gloss": "seven",
+          "native": "सात",
+          "audio": "audio/hi/w_2388a1196e.mp3"
+        },
+        {
+          "roman": "aath",
+          "gloss": "eight",
+          "native": "आठ",
+          "audio": "audio/hi/w_81f6b977ad.mp3"
+        },
+        {
+          "roman": "nau",
+          "gloss": "nine",
+          "native": "नौ",
+          "audio": "audio/hi/w_9041798de4.mp3"
+        },
+        {
+          "roman": "das",
+          "gloss": "ten",
+          "native": "दस",
+          "audio": "audio/hi/w_99bdffc5d1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "numbers/2/n",
+      "topic": "numbers",
+      "topicName": "Numbers",
+      "english": "I have two brothers.",
+      "tip": "Hindi has no verb \"to have\" here — it says \"My two brothers are\".",
+      "audio": "audio/hi/p_numbers_2_n.mp3",
+      "words": [
+        {
+          "roman": "Mere",
+          "gloss": "my",
+          "native": "मेरे",
+          "audio": "audio/hi/w_c3dfc7810e.mp3"
+        },
+        {
+          "roman": "do",
+          "gloss": "two",
+          "native": "दो",
+          "audio": "audio/hi/w_adf872fd1e.mp3"
+        },
+        {
+          "roman": "bhai",
+          "gloss": "brothers",
+          "native": "भाई",
+          "audio": "audio/hi/w_97bf946492.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "are",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    },
+    {
+      "id": "numbers/3/n",
+      "topic": "numbers",
+      "topicName": "Numbers",
+      "english": "Two teas, please.",
+      "tip": "\"dijiye\" is a polite \"please give\" — perfect at any chai stall.",
+      "audio": "audio/hi/p_numbers_3_n.mp3",
+      "words": [
+        {
+          "roman": "Do",
+          "gloss": "two",
+          "native": "दो",
+          "audio": "audio/hi/w_adf872fd1e.mp3"
+        },
+        {
+          "roman": "chai",
+          "gloss": "tea",
+          "native": "चाय",
+          "audio": "audio/hi/w_7c9db405ca.mp3"
+        },
+        {
+          "roman": "dijiye",
+          "gloss": "please give",
+          "native": "दीजिए",
+          "audio": "audio/hi/w_4b7cb19b8e.mp3"
+        }
+      ]
+    },
+    {
+      "id": "numbers/4/n",
+      "topic": "numbers",
+      "topicName": "Numbers",
+      "english": "How much is this?",
+      "tip": "Literally \"This of how much is?\" — the market question you'll use most.",
+      "audio": "audio/hi/p_numbers_4_n.mp3",
+      "words": [
+        {
+          "roman": "Yeh",
+          "gloss": "this",
+          "native": "यह",
+          "audio": "audio/hi/w_32e8c5d2cd.mp3"
+        },
+        {
+          "roman": "kitne",
+          "gloss": "how much",
+          "native": "कितने",
+          "audio": "audio/hi/w_96b5f1b927.mp3"
+        },
+        {
+          "roman": "ka",
+          "gloss": "of",
+          "native": "का",
+          "audio": "audio/hi/w_438b9b50f9.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "colors/0/n",
+      "topic": "colors",
+      "topicName": "Colours",
+      "english": "The sky is blue.",
+      "tip": "Hindi has no word for \"the\" — just \"sky blue is\".",
+      "audio": "audio/hi/p_colors_0_n.mp3",
+      "words": [
+        {
+          "roman": "Aasmaan",
+          "gloss": "sky",
+          "native": "आसमान",
+          "audio": "audio/hi/w_0974a4b778.mp3"
+        },
+        {
+          "roman": "neela",
+          "gloss": "blue",
+          "native": "नीला",
+          "audio": "audio/hi/w_b0166d5ddc.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "colors/1/n",
+      "topic": "colors",
+      "topicName": "Colours",
+      "english": "The sea is green and blue.",
+      "tip": "\"aur\" (and) is one of the most useful little words in Hindi.",
+      "audio": "audio/hi/p_colors_1_n.mp3",
+      "words": [
+        {
+          "roman": "Samundar",
+          "gloss": "sea",
+          "native": "समुंदर",
+          "audio": "audio/hi/w_0db8fb2b64.mp3"
+        },
+        {
+          "roman": "hara",
+          "gloss": "green",
+          "native": "हरा",
+          "audio": "audio/hi/w_e021b63153.mp3"
+        },
+        {
+          "roman": "aur",
+          "gloss": "and",
+          "native": "और",
+          "audio": "audio/hi/w_76df35e8e7.mp3"
+        },
+        {
+          "roman": "neela",
+          "gloss": "blue",
+          "native": "नीला",
+          "audio": "audio/hi/w_b0166d5ddc.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "colors/2/n",
+      "topic": "colors",
+      "topicName": "Colours",
+      "english": "I like the colour red.",
+      "tip": "\"Mujhe … pasand hai\" literally means \"to me … is liked\" — that's how Hindi says \"I like\".",
+      "audio": "audio/hi/p_colors_2_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "laal",
+          "gloss": "red",
+          "native": "लाल",
+          "audio": "audio/hi/w_1cacba57d7.mp3"
+        },
+        {
+          "roman": "rang",
+          "gloss": "colour",
+          "native": "रंग",
+          "audio": "audio/hi/w_717fb745c4.mp3"
+        },
+        {
+          "roman": "pasand",
+          "gloss": "liked",
+          "native": "पसंद",
+          "audio": "audio/hi/w_1893b7ce17.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "colors/3/n",
+      "topic": "colors",
+      "topicName": "Colours",
+      "english": "The sun is yellow and orange.",
+      "tip": "\"naarangi\" comes from \"naarang\" — the same root as the English word orange!",
+      "audio": "audio/hi/p_colors_3_n.mp3",
+      "words": [
+        {
+          "roman": "Suraj",
+          "gloss": "sun",
+          "native": "सूरज",
+          "audio": "audio/hi/w_489e57e996.mp3"
+        },
+        {
+          "roman": "peela",
+          "gloss": "yellow",
+          "native": "पीला",
+          "audio": "audio/hi/w_1e31e9133c.mp3"
+        },
+        {
+          "roman": "aur",
+          "gloss": "and",
+          "native": "और",
+          "audio": "audio/hi/w_76df35e8e7.mp3"
+        },
+        {
+          "roman": "naarangi",
+          "gloss": "orange",
+          "native": "नारंगी",
+          "audio": "audio/hi/w_d84bb697fe.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "colors/4/n",
+      "topic": "colors",
+      "topicName": "Colours",
+      "english": "My cat is black.",
+      "tip": "Billi (cat) is feminine, so \"mera → meri\" and \"kaala → kaali\".",
+      "audio": "audio/hi/p_colors_4_n.mp3",
+      "words": [
+        {
+          "roman": "Meri",
+          "gloss": "my",
+          "native": "मेरी",
+          "audio": "audio/hi/w_60837605dd.mp3"
+        },
+        {
+          "roman": "billi",
+          "gloss": "cat",
+          "native": "बिल्ली",
+          "audio": "audio/hi/w_2ae3703d2b.mp3"
+        },
+        {
+          "roman": "kaali",
+          "gloss": "black",
+          "native": "काली",
+          "audio": "audio/hi/w_d82823f452.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verbs/0/m",
+      "topic": "verbs",
+      "topicName": "Verbs",
+      "english": "I drink water.",
+      "tip": "Present habits: verb stem + -ta/-ti + hoon. \"peena\" = to drink.",
+      "audio": "audio/hi/p_verbs_0_m.mp3",
+      "words": [
+        {
+          "roman": "Main",
+          "gloss": "I",
+          "native": "मैं",
+          "audio": "audio/hi/w_59d088f391.mp3"
+        },
+        {
+          "roman": "paani",
+          "gloss": "water",
+          "native": "पानी",
+          "audio": "audio/hi/w_558d3ded74.mp3"
+        },
+        {
+          "roman": "peeta",
+          "gloss": "drink",
+          "native": "पीता",
+          "audio": "audio/hi/w_4589cf090d.mp3"
+        },
+        {
+          "roman": "hoon",
+          "gloss": "am",
+          "native": "हूँ",
+          "audio": "audio/hi/w_7fce55f7d0.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verbs/1/n",
+      "topic": "verbs",
+      "topicName": "Verbs",
+      "english": "We run together.",
+      "tip": "\"daudna\" = to run. With \"hum\" (we) the ending becomes -te hain.",
+      "audio": "audio/hi/p_verbs_1_n.mp3",
+      "words": [
+        {
+          "roman": "Hum",
+          "gloss": "we",
+          "native": "हम",
+          "audio": "audio/hi/w_b3d44f1a82.mp3"
+        },
+        {
+          "roman": "saath mein",
+          "gloss": "together",
+          "native": "साथ में",
+          "audio": "audio/hi/w_0d587d0253.mp3"
+        },
+        {
+          "roman": "daudte",
+          "gloss": "run",
+          "native": "दौड़ते",
+          "audio": "audio/hi/w_66f4198645.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "are",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verbs/2/n",
+      "topic": "verbs",
+      "topicName": "Verbs",
+      "english": "She reads a book.",
+      "tip": "\"padhta\" for he, \"padhti\" for she — the verb shows who's reading.",
+      "audio": "audio/hi/p_verbs_2_n.mp3",
+      "words": [
+        {
+          "roman": "Woh",
+          "gloss": "she",
+          "native": "वह",
+          "audio": "audio/hi/w_48d3e67989.mp3"
+        },
+        {
+          "roman": "kitaab",
+          "gloss": "book",
+          "native": "किताब",
+          "audio": "audio/hi/w_9a50201e3d.mp3"
+        },
+        {
+          "roman": "padhti",
+          "gloss": "reads",
+          "native": "पढ़ती",
+          "audio": "audio/hi/w_835c7480be.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verbs/3/n",
+      "topic": "verbs",
+      "topicName": "Verbs",
+      "english": "I like to cook food.",
+      "tip": "\"banana\" really means \"to make\" in Hindi — an easy one to remember!",
+      "audio": "audio/hi/p_verbs_3_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "khaana",
+          "gloss": "food",
+          "native": "खाना",
+          "audio": "audio/hi/w_ee02d6e4f7.mp3"
+        },
+        {
+          "roman": "banana",
+          "gloss": "to make",
+          "native": "बनाना",
+          "audio": "audio/hi/w_96d7e3ee65.mp3"
+        },
+        {
+          "roman": "pasand",
+          "gloss": "liked",
+          "native": "पसंद",
+          "audio": "audio/hi/w_1893b7ce17.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "verbs/4/n",
+      "topic": "verbs",
+      "topicName": "Verbs",
+      "english": "Come on, let's go and see the sea!",
+      "tip": "\"Chalo\" is everywhere in India — let's go, okay, come on!",
+      "audio": "audio/hi/p_verbs_4_n.mp3",
+      "words": [
+        {
+          "roman": "Chalo",
+          "gloss": "come on",
+          "native": "चलो",
+          "audio": "audio/hi/w_b53c65b3f5.mp3"
+        },
+        {
+          "roman": "samundar",
+          "gloss": "sea",
+          "native": "समुंदर",
+          "audio": "audio/hi/w_0db8fb2b64.mp3"
+        },
+        {
+          "roman": "dekhne",
+          "gloss": "to see",
+          "native": "देखने",
+          "audio": "audio/hi/w_e285c634a4.mp3"
+        },
+        {
+          "roman": "chalte",
+          "gloss": "go",
+          "native": "चलते",
+          "audio": "audio/hi/w_1498a13469.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "(let's)",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/0/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "I am hungry.",
+      "tip": "Literally \"Hunger has struck me\" — feelings often happen TO you in Hindi.",
+      "audio": "audio/hi/p_food_0_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "bhookh",
+          "gloss": "hunger",
+          "native": "भूख",
+          "audio": "audio/hi/w_c3b549026f.mp3"
+        },
+        {
+          "roman": "lagi",
+          "gloss": "struck",
+          "native": "लगी",
+          "audio": "audio/hi/w_0b1b853b07.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/1/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "One tea and two samosas, please.",
+      "tip": "samosa → samose: many -a words become -e in the plural.",
+      "audio": "audio/hi/p_food_1_n.mp3",
+      "words": [
+        {
+          "roman": "Ek",
+          "gloss": "one",
+          "native": "एक",
+          "audio": "audio/hi/w_be60c8bf27.mp3"
+        },
+        {
+          "roman": "chai",
+          "gloss": "tea",
+          "native": "चाय",
+          "audio": "audio/hi/w_7c9db405ca.mp3"
+        },
+        {
+          "roman": "aur",
+          "gloss": "and",
+          "native": "और",
+          "audio": "audio/hi/w_76df35e8e7.mp3"
+        },
+        {
+          "roman": "do",
+          "gloss": "two",
+          "native": "दो",
+          "audio": "audio/hi/w_adf872fd1e.mp3"
+        },
+        {
+          "roman": "samose",
+          "gloss": "samosas",
+          "native": "समोसे",
+          "audio": "audio/hi/w_d279d75349.mp3"
+        },
+        {
+          "roman": "dijiye",
+          "gloss": "please give",
+          "native": "दीजिए",
+          "audio": "audio/hi/w_4b7cb19b8e.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/2/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "The food is very tasty.",
+      "tip": "\"bahut\" = very / a lot. You'll hear it constantly.",
+      "audio": "audio/hi/p_food_2_n.mp3",
+      "words": [
+        {
+          "roman": "Khaana",
+          "gloss": "food",
+          "native": "खाना",
+          "audio": "audio/hi/w_ee02d6e4f7.mp3"
+        },
+        {
+          "roman": "bahut",
+          "gloss": "very",
+          "native": "बहुत",
+          "audio": "audio/hi/w_fb91613728.mp3"
+        },
+        {
+          "roman": "swaadisht",
+          "gloss": "tasty",
+          "native": "स्वादिष्ट",
+          "audio": "audio/hi/w_4e85f89200.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/3/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "Could I get some water?",
+      "tip": "Literally \"Can water be got?\" — a polite, indirect request.",
+      "audio": "audio/hi/p_food_3_n.mp3",
+      "words": [
+        {
+          "roman": "Paani",
+          "gloss": "water",
+          "native": "पानी",
+          "audio": "audio/hi/w_558d3ded74.mp3"
+        },
+        {
+          "roman": "mil",
+          "gloss": "get",
+          "native": "मिल",
+          "audio": "audio/hi/w_858099088b.mp3"
+        },
+        {
+          "roman": "sakta",
+          "gloss": "can",
+          "native": "सकता",
+          "audio": "audio/hi/w_aeba44aaf1.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/4/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "I like spicy food.",
+      "tip": "Careful what you wish for — \"teekha\" in India can be VERY spicy.",
+      "audio": "audio/hi/p_food_4_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "teekha",
+          "gloss": "spicy",
+          "native": "तीखा",
+          "audio": "audio/hi/w_74ec73a2c6.mp3"
+        },
+        {
+          "roman": "khaana",
+          "gloss": "food",
+          "native": "खाना",
+          "audio": "audio/hi/w_ee02d6e4f7.mp3"
+        },
+        {
+          "roman": "pasand",
+          "gloss": "liked",
+          "native": "पसंद",
+          "audio": "audio/hi/w_1893b7ce17.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/5/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "I need to eat something.",
+      "tip": "Say it after \"Mujhe bhookh lagi hai\". khaana means both \"food\" and \"to eat\"!",
+      "audio": "audio/hi/p_food_5_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "kuch",
+          "gloss": "something",
+          "native": "कुछ",
+          "audio": "audio/hi/w_9df103cf0a.mp3"
+        },
+        {
+          "roman": "khaana",
+          "gloss": "to eat",
+          "native": "खाना",
+          "audio": "audio/hi/w_ee02d6e4f7.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/6/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "I am thirsty.",
+      "tip": "Same pattern as hunger: bhookh lagi hai → pyaas lagi hai.",
+      "audio": "audio/hi/p_food_6_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "pyaas",
+          "gloss": "thirst",
+          "native": "प्यास",
+          "audio": "audio/hi/w_2bcc8baea1.mp3"
+        },
+        {
+          "roman": "lagi",
+          "gloss": "struck",
+          "native": "लगी",
+          "audio": "audio/hi/w_0b1b853b07.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "food/7/n",
+      "topic": "food",
+      "topicName": "Food & Drink",
+      "english": "I need to drink something.",
+      "tip": "Mujhe + verb + hai = I need to … (kuch khaana hai, kuch peena hai).",
+      "audio": "audio/hi/p_food_7_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "kuch",
+          "gloss": "something",
+          "native": "कुछ",
+          "audio": "audio/hi/w_9df103cf0a.mp3"
+        },
+        {
+          "roman": "peena",
+          "gloss": "to drink",
+          "native": "पीना",
+          "audio": "audio/hi/w_04eaac9557.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "travel/0/n",
+      "topic": "travel",
+      "topicName": "Directions",
+      "english": "Where is the station?",
+      "tip": "Many travel words are borrowed from English: station, ticket, bus.",
+      "audio": "audio/hi/p_travel_0_n.mp3",
+      "words": [
+        {
+          "roman": "Station",
+          "gloss": "station",
+          "native": "स्टेशन",
+          "audio": "audio/hi/w_fd18d7ed14.mp3"
+        },
+        {
+          "roman": "kahaan",
+          "gloss": "where",
+          "native": "कहाँ",
+          "audio": "audio/hi/w_0472ce9a69.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "travel/1/n",
+      "topic": "travel",
+      "topicName": "Directions",
+      "english": "Go straight, then turn left.",
+      "tip": "Polite commands end in -iye: jaaiye (go), mudiye (turn), dijiye (give).",
+      "audio": "audio/hi/p_travel_1_n.mp3",
+      "words": [
+        {
+          "roman": "Seedha",
+          "gloss": "straight",
+          "native": "सीधा",
+          "audio": "audio/hi/w_2cc28f2e31.mp3"
+        },
+        {
+          "roman": "jaaiye",
+          "gloss": "go",
+          "native": "जाइए",
+          "audio": "audio/hi/w_db911ac71b.mp3"
+        },
+        {
+          "roman": "phir",
+          "gloss": "then",
+          "native": "फिर",
+          "audio": "audio/hi/w_a13bed64e8.mp3"
+        },
+        {
+          "roman": "baayen",
+          "gloss": "left",
+          "native": "बाएँ",
+          "audio": "audio/hi/w_0f530803a4.mp3"
+        },
+        {
+          "roman": "mudiye",
+          "gloss": "turn",
+          "native": "मुड़िए",
+          "audio": "audio/hi/w_3996590656.mp3"
+        }
+      ]
+    },
+    {
+      "id": "travel/2/n",
+      "topic": "travel",
+      "topicName": "Directions",
+      "english": "The sea is not far from here.",
+      "tip": "\"nahin\" (not) goes right before the verb.",
+      "audio": "audio/hi/p_travel_2_n.mp3",
+      "words": [
+        {
+          "roman": "Samundar",
+          "gloss": "sea",
+          "native": "समुंदर",
+          "audio": "audio/hi/w_0db8fb2b64.mp3"
+        },
+        {
+          "roman": "yahaan se",
+          "gloss": "from here",
+          "native": "यहाँ से",
+          "audio": "audio/hi/w_cfb0d691d4.mp3"
+        },
+        {
+          "roman": "door",
+          "gloss": "far",
+          "native": "दूर",
+          "audio": "audio/hi/w_d3ad5d9f40.mp3"
+        },
+        {
+          "roman": "nahin",
+          "gloss": "not",
+          "native": "नहीं",
+          "audio": "audio/hi/w_776d70928c.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "travel/3/n",
+      "topic": "travel",
+      "topicName": "Directions",
+      "english": "I need a ticket.",
+      "tip": "\"Mujhe … chaahiye\" = I need / I want. Super useful!",
+      "audio": "audio/hi/p_travel_3_n.mp3",
+      "words": [
+        {
+          "roman": "Mujhe",
+          "gloss": "to me",
+          "native": "मुझे",
+          "audio": "audio/hi/w_f3e62896af.mp3"
+        },
+        {
+          "roman": "ek",
+          "gloss": "a / one",
+          "native": "एक",
+          "audio": "audio/hi/w_be60c8bf27.mp3"
+        },
+        {
+          "roman": "tikat",
+          "gloss": "ticket",
+          "native": "टिकट",
+          "audio": "audio/hi/w_b1e27cc221.mp3"
+        },
+        {
+          "roman": "chaahiye",
+          "gloss": "is needed",
+          "native": "चाहिए",
+          "audio": "audio/hi/w_a094fbb630.mp3"
+        }
+      ]
+    },
+    {
+      "id": "travel/4/n",
+      "topic": "travel",
+      "topicName": "Directions",
+      "english": "Turn right, the shore is there.",
+      "tip": "yahaan = here, wahaan = there, kahaan = where.",
+      "audio": "audio/hi/p_travel_4_n.mp3",
+      "words": [
+        {
+          "roman": "Daayen",
+          "gloss": "right",
+          "native": "दाएँ",
+          "audio": "audio/hi/w_d9355080de.mp3"
+        },
+        {
+          "roman": "mudiye",
+          "gloss": "turn",
+          "native": "मुड़िए",
+          "audio": "audio/hi/w_3996590656.mp3"
+        },
+        {
+          "roman": "kinaara",
+          "gloss": "shore",
+          "native": "किनारा",
+          "audio": "audio/hi/w_e1e2226808.mp3"
+        },
+        {
+          "roman": "wahaan",
+          "gloss": "there",
+          "native": "वहाँ",
+          "audio": "audio/hi/w_3e06fd3a4a.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "family/0/n",
+      "topic": "family",
+      "topicName": "Family",
+      "english": "This is my mother.",
+      "tip": "\"meri\" because maa is feminine; \"mera\" for masculine nouns.",
+      "audio": "audio/hi/p_family_0_n.mp3",
+      "words": [
+        {
+          "roman": "Yeh",
+          "gloss": "this",
+          "native": "यह",
+          "audio": "audio/hi/w_32e8c5d2cd.mp3"
+        },
+        {
+          "roman": "meri",
+          "gloss": "my",
+          "native": "मेरी",
+          "audio": "audio/hi/w_60837605dd.mp3"
+        },
+        {
+          "roman": "maa",
+          "gloss": "mother",
+          "native": "माँ",
+          "audio": "audio/hi/w_3136b4970d.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "family/1/n",
+      "topic": "family",
+      "topicName": "Family",
+      "english": "My father is a doctor.",
+      "tip": "Elders get the plural \"hain\" and \"-ji\" as a sign of respect.",
+      "audio": "audio/hi/p_family_1_n.mp3",
+      "words": [
+        {
+          "roman": "Mere",
+          "gloss": "my",
+          "native": "मेरे",
+          "audio": "audio/hi/w_c3dfc7810e.mp3"
+        },
+        {
+          "roman": "pitaaji",
+          "gloss": "father",
+          "native": "पिताजी",
+          "audio": "audio/hi/w_8ba00f70bb.mp3"
+        },
+        {
+          "roman": "doctor",
+          "gloss": "doctor",
+          "native": "डॉक्टर",
+          "audio": "audio/hi/w_534a214870.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "is (respectful)",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    },
+    {
+      "id": "family/2/n",
+      "topic": "family",
+      "topicName": "Family",
+      "english": "I have a little sister.",
+      "tip": "Again no \"to have\": \"My one little sister is.\"",
+      "audio": "audio/hi/p_family_2_n.mp3",
+      "words": [
+        {
+          "roman": "Meri",
+          "gloss": "my",
+          "native": "मेरी",
+          "audio": "audio/hi/w_60837605dd.mp3"
+        },
+        {
+          "roman": "ek",
+          "gloss": "a / one",
+          "native": "एक",
+          "audio": "audio/hi/w_be60c8bf27.mp3"
+        },
+        {
+          "roman": "chhoti",
+          "gloss": "little",
+          "native": "छोटी",
+          "audio": "audio/hi/w_fdaaf28872.mp3"
+        },
+        {
+          "roman": "behen",
+          "gloss": "sister",
+          "native": "बहन",
+          "audio": "audio/hi/w_42df399079.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "family/3/n",
+      "topic": "family",
+      "topicName": "Family",
+      "english": "Our family is big.",
+      "tip": "bada = big, chhota = small — opposites to learn together.",
+      "audio": "audio/hi/p_family_3_n.mp3",
+      "words": [
+        {
+          "roman": "Hamaara",
+          "gloss": "our",
+          "native": "हमारा",
+          "audio": "audio/hi/w_d7abaa58cc.mp3"
+        },
+        {
+          "roman": "parivaar",
+          "gloss": "family",
+          "native": "परिवार",
+          "audio": "audio/hi/w_59b4de98a6.mp3"
+        },
+        {
+          "roman": "bada",
+          "gloss": "big",
+          "native": "बड़ा",
+          "audio": "audio/hi/w_a4af38a313.mp3"
+        },
+        {
+          "roman": "hai",
+          "gloss": "is",
+          "native": "है",
+          "audio": "audio/hi/w_59b35aa1ff.mp3"
+        }
+      ]
+    },
+    {
+      "id": "family/4/n",
+      "topic": "family",
+      "topicName": "Family",
+      "english": "Grandpa and grandma live with us.",
+      "tip": "daada/daadi are the father's parents; naana/naani are the mother's.",
+      "audio": "audio/hi/p_family_4_n.mp3",
+      "words": [
+        {
+          "roman": "Daada daadi",
+          "gloss": "grandpa & grandma",
+          "native": "दादा-दादी",
+          "audio": "audio/hi/w_7bef01f998.mp3"
+        },
+        {
+          "roman": "hamaare saath",
+          "gloss": "with us",
+          "native": "हमारे साथ",
+          "audio": "audio/hi/w_44fc654231.mp3"
+        },
+        {
+          "roman": "rehte",
+          "gloss": "live",
+          "native": "रहते",
+          "audio": "audio/hi/w_4123747a4c.mp3"
+        },
+        {
+          "roman": "hain",
+          "gloss": "are",
+          "native": "हैं",
+          "audio": "audio/hi/w_b8d4a5b249.mp3"
+        }
+      ]
+    }
+  ]
+}
